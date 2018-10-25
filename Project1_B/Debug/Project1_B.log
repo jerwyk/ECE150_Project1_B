@@ -1,0 +1,6 @@
+﻿  Intervals.cpp
+c:\users\yunkai\desktop\yunkai\university\first year\ece150\project1_b\project1_b\intervals.cpp(417): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\yunkai\desktop\yunkai\university\first year\ece150\project1_b\project1_b\intervals.cpp(436): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\yunkai\desktop\yunkai\university\first year\ece150\project1_b\project1_b\intervals.cpp(438): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project1_B.vcxproj -> C:\Users\Yunkai\Desktop\YunKai\University\First Year\ECE150\Project1_B\Debug\Project1_B.exe
+  Project1_B.vcxproj -> C:\Users\Yunkai\Desktop\YunKai\University\First Year\ECE150\Project1_B\Debug\Project1_B.pdb (Partial PDB)
